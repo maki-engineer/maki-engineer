@@ -108,7 +108,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="80" height="80"/>
 </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="80" height="80"/>
+  <img src="./img/laravel-logo.svg" alt="laravel" width="80" height="80"/>
 </a>
 
 ### Testing
