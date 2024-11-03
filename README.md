@@ -3,6 +3,19 @@
 </div>
 
 # Hi there👋 I'm Maki! :)
+<p>
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=maki-engineer&show_icons=true&locale=en" alt="maki-engineer" />
+</p>
+
+- I'm a TypeScript and Go language Enthusiast.
+- I love "Hololive" and "THE IDOLM@STER" very much.
+- My dream is to become an engineer who can develop apps that make everyone who uses them happy.
+
+# Latest My Blog Posts
+
+<p>
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=maki-engineer&show_icons=true&locale=en&layout=compact" alt="maki-engineer" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
