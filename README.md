@@ -8,8 +8,10 @@
 </p>
 
 - I'm a TypeScript and Go language Enthusiast.
-- I love "Hololive" and "THE IDOLM@STER" very much.
+- I would like to learn functional programming languages.
+- The company uses PHP and Laravel for agile development.
 - My dream is to become an engineer who can develop apps that make everyone who uses them happy.
+- I love "Hololive" and "THE IDOLM@STER" very much.
 
 # Latest My Blog Posts
 
