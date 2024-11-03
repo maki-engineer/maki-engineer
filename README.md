@@ -27,9 +27,14 @@
 
 ## Connect with me
 ### Twitter (X)
-<p align="left">
-<a href="https://x.com/MKRKL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MKRKL" height="80" width="80" /></a>
-</p>
+<a href="https://x.com/MKRKL" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MKRKL" height="80" width="80"/>
+</a>
+
+### Bluesky
+<a href="https://bsky.app/profile/maki-0403-ssrb.bsky.social" target="_blank">
+  <img src="./img/bluesky_media_kit_logo_transparent_1.png" alt="maki-0403-ssrb" height="100" width="100">
+</a>
 
 ## Languages and Tools
 ### Programming Languages
