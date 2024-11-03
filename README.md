@@ -1,4 +1,6 @@
-<img align="center" width="500" src="./img/helloworld.png" alt="Hello, World" />
+<div>
+  <img align="center" src="./img/helloworld.png" alt="Hello, World" />
+</div>
 
 # Hi there👋 I'm Maki! :)
 
