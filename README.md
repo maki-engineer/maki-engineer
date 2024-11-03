@@ -4,7 +4,7 @@
 
 # Hi there👋 I'm Maki! :)
 <p>
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=maki-engineer&show_icons=true&locale=en" alt="maki-engineer" />
+  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=maki-engineer&show_icons=true&locale=en" alt="maki-engineer" />
 </p>
 
 - I'm a TypeScript and Go language Enthusiast.
@@ -14,7 +14,7 @@
 # Latest My Blog Posts
 
 <p>
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=maki-engineer&show_icons=true&locale=en&layout=compact" alt="maki-engineer" />
+  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=maki-engineer&show_icons=true&locale=en&layout=compact" alt="maki-engineer" />
 </p>
 
 <picture>
