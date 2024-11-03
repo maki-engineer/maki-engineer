@@ -1,4 +1,7 @@
-# Hi there👋 I'm maki-engineer!：）
+<img align="center" width="500" src="./img/Hello, World.png" alt="Hello, World" />
+
+# Hi there👋 I'm Maki! :)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
