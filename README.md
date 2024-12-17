@@ -27,8 +27,8 @@
 
 ## Connect with me
 ### Twitter (X)
-<a href="https://x.com/MKRKL" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MKRKL" height="80" width="80"/>
+<a href="https://x.com/Maki_4398_SSRB" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Maki_4398_SSRB" height="80" width="80"/>
 </a>
 
 ### Bluesky
