@@ -25,17 +25,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
 </picture>
 
-## Connect with me
-### Twitter (X)
-<a href="https://x.com/Maki_4398_SSRB" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Maki_4398_SSRB" height="80" width="80"/>
-</a>
-
-### Bluesky
-<a href="https://bsky.app/profile/maki-0403-ssrb.bsky.social" target="_blank">
-  <img src="./img/bluesky_media_kit_logo_transparent_1.png" alt="maki-0403-ssrb" height="100" width="100">
-</a>
-
 ## Languages and Tools
 ### Programming Languages
 <a href="https://golang.org" target="_blank" rel="noreferrer">
@@ -131,6 +120,3 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/>
 </a>
-
-## AtCoder Rating
-[![maki43](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fmaki43)](https://atcoder.jp/users/maki43)
